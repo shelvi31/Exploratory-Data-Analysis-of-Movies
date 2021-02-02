@@ -1,0 +1,12 @@
+Dataset Source : Kaggle
+
+Is there any relationship between movie- budget and movie-revenue?
+What are duration outliers in various genres of movies?
+What is the Distribution of various Movie Durations?
+Does having more facebook likes have an impact on revenue?
+Is there any Relationship between facebook likes and IMDB Ratings?  - As soon as the Imdb score crosses 5 , there is some positive polynomial correlation. One can say whenever IMDB rating is going higher than 5 , there is a relationship between Imdb and Fb Likes
+Correlation Matrix between Various Numerical Data Points.
+Is the genre budget changing with time? We can see, there is some constant improvement of budget in action movies but something has happened in 2006 , where the movies in comedies have got the maximum budget. Similarly , movies of actions : budget have remain same , drama movies have seen decrement over recent years
+What is the distribution of Imdb ratings over genres.  -- Action and drama movies are leading when it comes to Imdb ratings
+What is the most revenue fetching category for a movie?
+Fb Ratings relationships with movie ratings.
